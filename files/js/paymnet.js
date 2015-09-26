@@ -1,0 +1,5 @@
+$(function() {
+		  
+ $('#payFrom').submit();
+ 
+});

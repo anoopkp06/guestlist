@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="ArrayLogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="ClosureLogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="LogAdapterInterface.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="MessageFormatter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="MonologLogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="PsrLogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="Zf1LogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="Zf2LogAdapter.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+</dwsync>

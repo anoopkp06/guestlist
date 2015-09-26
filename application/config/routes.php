@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+ 
 /*
 | -------------------------------------------------------------------------
 | URI ROUTING
@@ -49,6 +49,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
-$route['default_controller'] = 'welcome';
+$route['default_controller'] = 'home'; 
+
+$route['terms'] = 'home/terms/';
+$route['select_plan/(:any)'] = 'account/select_plan/$1'; 
+
+$route['forgotpassword'] = 'account/forgotpassword/'; 
+$route['login'] = 'account/login/'; 
+$route['logout'] = 'account/logout/'; 
+$route['make_paymnet'] = 'account/make_paymnet/';
+$route['success'] = 'account/success/';
+ 
+$route['admin_login'] = 'admin/admin_login/'; 
+ 
+ 
+$route['listpage/(.+)']	= 'listpage/index/$1';
+$route['userlistpage/(.+)/(.+)']	= 'listpage/user_list_view/$1/$2';
+
+
 $route['404_override'] = '';
-$route['translate_uri_dashes'] = FALSE;
+$route['translate_uri_dashes'] = FALSE; 

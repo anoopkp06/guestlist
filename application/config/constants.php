@@ -18,6 +18,13 @@ define('FILE_READ_MODE', 0644);
 define('FILE_WRITE_MODE', 0666);
 define('DIR_READ_MODE', 0755);
 define('DIR_WRITE_MODE', 0755);
+define('ADS_PER_PAGE', 20);
+define('USERS_PER_PAGE', 20);
+
+
+ 
+
+
 
 /*
 |--------------------------------------------------------------------------
@@ -36,6 +43,11 @@ define('FOPEN_WRITE_CREATE', 'ab');
 define('FOPEN_READ_WRITE_CREATE', 'a+b');
 define('FOPEN_WRITE_CREATE_STRICT', 'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT', 'x+b');
+
+define('EMAIL_KEY', 'key-03bbdd374175cab763318e141fb293ec');
+define('EMAIL_DOMAIN', 'sandbox750e37e111ff4d03a61fe980e1f94dee.mailgun.org');
+
+
 
 /*
 |--------------------------------------------------------------------------

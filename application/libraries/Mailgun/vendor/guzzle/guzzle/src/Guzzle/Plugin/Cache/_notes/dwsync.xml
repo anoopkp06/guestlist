@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CacheKeyProviderInterface.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="CachePlugin.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="CacheStorageInterface.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="CallbackCanCacheStrategy.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="CanCacheStrategyInterface.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DefaultCacheKeyProvider.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DefaultCacheStorage.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DefaultCanCacheStrategy.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DefaultRevalidation.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DenyRevalidation.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="RevalidationInterface.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="SkipRevalidation.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+</dwsync>

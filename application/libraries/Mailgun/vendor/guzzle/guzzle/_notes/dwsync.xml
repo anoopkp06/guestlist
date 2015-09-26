@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" local="130521601560000000" remote="130865400000000000" testing="0" />
+<file name=".travis.yml" local="130521601560000000" remote="130865400600000000" testing="0" />
+<file name="build.xml" local="130521601560000000" remote="130865400600000000" testing="0" />
+<file name="CHANGELOG.md" local="130521601560000000" remote="130865400600000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865400600000000" testing="0" />
+<file name="LICENSE" local="130521601560000000" remote="130865400600000000" testing="0" />
+<file name="phar-stub.php" local="130521601560000000" remote="130865400600000000" testing="0" />
+<file name="phpunit.xml.dist" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="README.md" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="UPGRADING.md" local="130521601560000000" remote="130865404800000000" testing="0" />
+</dwsync>

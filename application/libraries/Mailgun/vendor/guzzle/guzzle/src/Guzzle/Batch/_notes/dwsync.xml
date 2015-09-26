@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBatchDecorator.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="Batch.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchBuilder.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchClosureDivisor.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchClosureTransfer.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchCommandTransfer.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchDivisorInterface.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchInterface.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchRequestTransfer.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchSizeDivisor.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="BatchTransferInterface.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="ExceptionBufferingBatch.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="FlushingBatch.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="HistoryBatch.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="NotifyingBatch.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+</dwsync>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractEntityBodyDecorator.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="CachingEntityBody.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="Client.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="ClientInterface.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="EntityBody.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="EntityBodyInterface.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="IoEmittingEntityBody.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="Mimetypes.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="QueryString.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="ReadLimitEntityBody.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="RedirectPlugin.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="StaticClient.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="Url.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" local="130566067860000000" remote="130865405400000000" testing="0" />
+<file name="CHANGELOG.md" local="130566067860000000" remote="130865405400000000" testing="0" />
+<file name="composer.json" local="130566067860000000" remote="130865405400000000" testing="0" />
+<file name="ContainerAwareEventDispatcher.php" local="130566067860000000" remote="130865405400000000" testing="0" />
+<file name="Event.php" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="EventDispatcher.php" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="EventDispatcherInterface.php" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="EventSubscriberInterface.php" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="GenericEvent.php" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="ImmutableEventDispatcher.php" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="LICENSE" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="phpunit.xml.dist" local="130566067860000000" remote="130865406000000000" testing="0" />
+<file name="README.md" local="130566067860000000" remote="130865406000000000" testing="0" />
+</dwsync>

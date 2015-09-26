@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CachePluginTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="CallbackCanCacheStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="DefaultCacheStorageTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="DefaultCanCacheStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="DefaultRevalidationTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="DenyRevalidationTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="SkipRevalidationTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+</dwsync>

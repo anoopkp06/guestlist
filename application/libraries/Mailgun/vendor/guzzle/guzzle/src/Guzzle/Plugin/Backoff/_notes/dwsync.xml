@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="AbstractErrorCodeBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="BackoffLogger.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="BackoffPlugin.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="BackoffStrategyInterface.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="CallbackBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="ConstantBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="CurlBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="ExponentialBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="HttpBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="LinearBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="ReasonPhraseBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+<file name="TruncatedBackoffStrategy.php" local="130521601560000000" remote="130865401800000000" testing="0" />
+</dwsync>

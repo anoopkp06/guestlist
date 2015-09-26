@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractRequestVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="BodyVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="HeaderVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="JsonVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="PostFieldVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="PostFileVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="QueryVisitor.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="RequestVisitorInterface.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="ResponseBodyVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="XmlVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="CommandTransferException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="DescriptionBuilderException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="InconsistentClientTransferException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ResponseClassException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ServiceBuilderException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ServiceNotFoundException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ValidationException.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+</dwsync>

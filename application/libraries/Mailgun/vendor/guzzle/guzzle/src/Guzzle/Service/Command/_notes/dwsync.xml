@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCommand.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="ClosureCommand.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="CommandInterface.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="CreateResponseClassEvent.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DefaultRequestSerializer.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="DefaultResponseParser.php" local="130521601560000000" remote="130865402400000000" testing="0" />
+<file name="OperationCommand.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="OperationResponseParser.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="RequestSerializerInterface.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ResponseClassInterface.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ResponseParserInterface.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+</dwsync>

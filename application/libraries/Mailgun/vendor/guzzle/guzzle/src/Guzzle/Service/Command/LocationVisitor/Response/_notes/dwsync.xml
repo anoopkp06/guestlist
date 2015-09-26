@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractResponseVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BodyVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="HeaderVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="JsonVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ReasonPhraseVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ResponseVisitorInterface.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="StatusCodeVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="XmlVisitor.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+</dwsync>

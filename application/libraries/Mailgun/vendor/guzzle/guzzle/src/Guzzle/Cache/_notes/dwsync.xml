@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCacheAdapter.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="CacheAdapterFactory.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="CacheAdapterInterface.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="ClosureCacheAdapter.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="composer.json" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="DoctrineCacheAdapter.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="NullCacheAdapter.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="Zf1CacheAdapter.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+<file name="Zf2CacheAdapter.php" local="130521601560000000" remote="130865401200000000" testing="0" />
+</dwsync>

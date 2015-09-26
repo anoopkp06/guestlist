@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCommandTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="ClosureCommandTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="CommandTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="DefaultRequestSerializerTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="DefaultResponseParserTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="OperationCommandTest.php" local="130521601560000000" remote="130865404800000000" testing="0" />
+<file name="OperationResponseParserTest.php" local="130521601560000000" remote="130865404800000000" testing="0" />
+</dwsync>

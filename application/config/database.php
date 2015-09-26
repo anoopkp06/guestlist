@@ -64,10 +64,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'bugsproi_guestv',
-	'password' => '3)Ad!P3ES4',
-	'database' => 'bugsproi_guestv',
+	'hostname' => '103.8.127.205',
+	'username' => 'bugsproi_guest',
+	'password' => 'guest@123',
+	'database' => 'bugsproi_guestlist',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

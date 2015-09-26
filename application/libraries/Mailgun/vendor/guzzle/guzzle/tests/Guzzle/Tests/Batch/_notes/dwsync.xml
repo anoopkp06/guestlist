@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBatchDecoratorTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchBuilderTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchClosureDivisorTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchClosureTransferTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchCommandTransferTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchRequestTransferTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchSizeDivisorTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="BatchTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="ExceptionBufferingBatchTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="FlushingBatchTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="HistoryBatchTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+<file name="NotifyingBatchTest.php" local="130521601560000000" remote="130865403000000000" testing="0" />
+</dwsync>

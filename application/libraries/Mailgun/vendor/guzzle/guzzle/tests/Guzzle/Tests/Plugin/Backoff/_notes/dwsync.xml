@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="BackoffLoggerTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="BackoffPluginTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="CallbackBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="ConstantBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="CurlBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="ExponentialBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="HttpBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="LinearBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="ReasonPhraseBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+<file name="TruncatedBackoffStrategyTest.php" local="130521601560000000" remote="130865404200000000" testing="0" />
+</dwsync>
